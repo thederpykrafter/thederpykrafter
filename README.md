@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GraveRobber-1.20.1](https://github.com/thederpykrafter/GraveRobber-1.20.1)
 
-- 🌱 I’m currently learning **Java & Python**
+- 🌱 I’m currently learning **Java, Python, Machine Learning, C, C#, C++, Html, CSS, Javascript and Ruby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
