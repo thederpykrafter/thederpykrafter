@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thederpykrafter&theme=" alt="thederpykrafter" /></a> </p>
 
-- 🔭 I’m currently working on: [Python Portfolio](https://github.com/thederpykrafter/Python-Learning-Portfolio)
-- 🧠 I’m actively learning: **Python, Html, CSS, JavaScript**
-- 🌱 I'm casually learning: **React Native, C, C++, C#, Rust, Ruby, Java**
+- 🔭 I’m currently working on: [Godot XR Survival](https://github.com/thederpykrafter/godot-xr-survival), [Learning VR Unity](https://github.com/thederpykrafter/Learing-VR-Unity)
+- 🧠 I’m actively learning: **GDScript, C#, Python, Html, CSS, JavaScript**
+- 🌱 I'm casually learning: **React Native, C, C++, Rust, Ruby, Java**
 - 📫 How to reach me: **https://discord.gg/ZVUQKqusgf**
 - 👨‍💻 All of my projects are available at: **https://github.com/thederpykrafter**
 
