@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thederpykrafter&theme=" alt="thederpykrafter" /></a> </p>
 
-- 🔭 I’m currently working on: **[Godot XR Survival](https://github.com/thederpykrafter/godot-xr-survival) [Learning VR Unity](https://github.com/thederpykrafter/Learing-VR-Unity)**
+- 🔭 I’m currently working on: **[Godot XR Survival](https://github.com/thederpykrafter/godot-xr-survival), [Learning VR Unity](https://github.com/thederpykrafter/Learing-VR-Unity)**
 - 🧠 I’m actively learning: **GDScript, C#, Python, Html, CSS and JavaScript**
 - 🌱 I'm casually learning: **React Native, C, C++, Rust, Ruby, Java and more!**
 - 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)**
-- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter) [Replit](https://replit.com/@JustinKulczyski)**
+- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter), [Replit](https://replit.com/@JustinKulczyski)**
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thederpykrafter&langs_count=8&theme=radical" alt=thederpykrafter />
 
