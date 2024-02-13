@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thederpykrafter&theme=" alt="thederpykrafter" /></a> </p>
 
-- 🔭 I’m currently working on: **[Godot XR Survival](https://github.com/thederpykrafter/godot-xr-survival)**
+- 🔭 I’m currently working on: **[LearningGodot](https://github.com/thederpykrafter/LearningGodot))**
 - 🧠 I’m currently learning: **GDScript, C, C#, C++, Python, Html, CSS and JavaScript**
 - 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter), [Replit](https://replit.com/@JustinKulczyski)**
