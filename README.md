@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm TheDerpyKrafter!👋</h1>
 <h3 align="center">A passionate amateur programmer eager to learn as much as possible</h3>
-
-
+<br>
 
 - 🔭 I’m currently working on: **[Portfolio-svelte-static](https://github.com/thederpykrafter/Portfolio-svelte-static), and [LearningGodot](https://github.com/thederpykrafter/LearningGodot)**
 - 🧠 I’m currently learning: **Svelte(kit), GDScript, Rust, C++, Python, Html, CSS and JavaScript**
@@ -45,16 +44,7 @@
  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.com/thederpykrafter/thederpykrafter/blob/main/replit.png" alt="Replit" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/>
-</p>
-
-<h2 align="left">Game Engines:</h2>
-<p>
   <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot" width="40" height="40"/> 
-</p>
-
-
-<h2 algh="left">Operating Systems</h2>
-<p>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png" alt="Linux" width="40" height="40"/>
 </p>
