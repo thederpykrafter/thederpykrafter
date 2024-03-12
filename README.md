@@ -2,7 +2,7 @@
 <h3 align="center">A passionate amateur programmer eager to learn as much as possible</h3>
 <br>
 
-- 🔭 I’m currently working on: **[Portfolio-svelte-static](https://github.com/thederpykrafter/Portfolio-svelte-static), and [LearningGodot](https://github.com/thederpykrafter/LearningGodot)**
+- 🔭 I’m currently working on: **[socket-game-test](https://github.com/thederpykrafter/socket-game-test),[Portfolio-svelte-static](https://github.com/thederpykrafter/Portfolio-svelte-static), and [LearningGodot](https://github.com/thederpykrafter/LearningGodot)**
 - 🧠 I’m currently learning: **Svelte(kit), GDScript, Rust, C++, Python, Html, CSS and JavaScript**
 - 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter), or [Replit](https://replit.com/@JustinKulczyski)**
