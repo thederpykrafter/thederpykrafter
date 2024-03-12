@@ -12,7 +12,7 @@
 <!-- Views -->
 <p> <img src="https://komarev.com/ghpvc/?username=thederpykrafter&label=Profile%20views&color=0e75b6&style=flat" alt="thederpykrafter" /> </p>
 <!-- Language usage -->
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thederpykrafter&langs_count=8&theme=radical" alt=thederpykrafter />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thederpykrafter&langs_count=8&theme=radical&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt=thederpykrafter />
 <!-- Github Stats -->
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thederpykrafter&show_icons=true&locale=en&theme=radical" alt="thederpykrafter" /></p>
 <!-- Trohies -->
