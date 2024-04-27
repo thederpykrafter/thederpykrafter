@@ -10,9 +10,9 @@
 
 <h2>Stats</h2>
 <!-- Views -->
-<p> <img src="https://komarev.com/ghpvc/?username=thederpykrafter&label=Profile%20views&color=0e75b6&style=flat" alt="thederpykrafter" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=thederpykrafter&label=Profile%20views&color=0e75b6&style=flat" alt="thederpykrafter" /></p>
 <!-- Language usage -->
-<img align="left" height="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thederpykrafter&langs_count=8&theme=radical&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt=thederpykrafter /></p>
+<p><img align="left" height="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thederpykrafter&langs_count=8&theme=radical&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt=thederpykrafter /></p>
 <!-- Github Stats -->
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thederpykrafter&show_icons=true&locale=en&theme=radical" alt="thederpykrafter" /></p>
 <!-- Trohies -->
@@ -41,6 +41,7 @@
   <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="Svelte" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="Tailwind" width="40" height="40"/>  
 </p>
 
 <h2 align="left">Tools:</h2>
