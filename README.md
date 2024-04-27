@@ -2,10 +2,10 @@
 <h3 align="center">A passionate amateur programmer eager to learn as much as possible</h3>
 <br>
 
-- 🔭 I’m currently working on: **[tdk-bevy-learning](https://github.com/thederpykrafter/tdk-bevy-learning), [socket-game-test](https://github.com/thederpykrafter/socket-game-test) and [Portfolio-svelte-static](https://github.com/thederpykrafter/Portfolio-svelte-static)**
-- 🧠 I’m currently learning: **Bevy(Rust), Svelte(kit & Native), and Socket.io with Express(JavaScript)**
-- 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)**
-- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter), or [Replit](https://replit.com/@JustinKulczyski)**
+- 🔭 I’m currently working on: **[tdk-portfolio](https://github.com/thederpykrafter/tdk-portfolio)**
+- 🧠 I’m currently learning: **[Svelte](https://svelte.dev)([Kit](kit.svelte.dev)) and [Tailwind](https://tailwindcss.com)**
+- 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf) or [LinkedIn](https://www.linkedin.com/in/justin-kulczyski/)**
+- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter) or [Replit](https://replit.com/@JustinKulczyski)**
 
 
 <h2>Stats</h2>
