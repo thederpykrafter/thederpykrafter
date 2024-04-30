@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on: **[tdk-portfolio](https://github.com/thederpykrafter/tdk-portfolio)**
 - 🧠 I’m currently learning: **[Svelte](https://svelte.dev)([Kit](kit.svelte.dev)) and [Tailwind](https://tailwindcss.com)**
 - 🎛 My dev environment configs: **[Neovim](https://github.com/thederpykrafter/tdk.nvim), [LunarVim](https://github.com/thederpykrafter/tdk.lvim), [Vs Code](https://github.com/thederpykrafter/tdk.vscode) and [Powershell](https://github.com/thederpykrafter/tdk.powershell)**
+- 🎆 Other configs & changes: **[Firefox Theme](https://github.com/thederpykrafter/tdk.firefox)**
 - 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf) or [LinkedIn](https://www.linkedin.com/in/justin-kulczyski/)**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter) or [Replit](https://replit.com/@JustinKulczyski)**
 
