@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm TheDerpyKrafter!👋</h1>
-<h3 align="center">A passionate amateur programmer eager to learn as much as possible</h3>
+<h1 align="center">Hi, I'm thederpykrafter!👋</h1>
+<h3 align="center">A passionate self taught developer eager to learn as much as possible</h3>
 <br>
 
 - 🔭 I’m currently working on: **[tdk-portfolio](https://github.com/thederpykrafter/tdk-portfolio)**
-- 🧠 I’m currently learning: **[Svelte](https://svelte.dev)([Kit](kit.svelte.dev)) and [Tailwind](https://tailwindcss.com)**
-- 🎛 My dev environment configs: **[Neovim](https://github.com/thederpykrafter/tdk.nvim), [LunarVim](https://github.com/thederpykrafter/tdk.lvim), [Vs Code](https://github.com/thederpykrafter/tdk.vscode) and [Powershell](https://github.com/thederpykrafter/tdk.powershell)**
+- 🧠 I’m currently learning: **[Svelte-Kit](kit.svelte.dev)** and **[Tailwind](https://tailwindcss.com)**
+- 🎛 My dev environment configs: **[Neovim](https://github.com/thederpykrafter/tdk.nvim)**, **[LunarVim](https://github.com/thederpykrafter/tdk.lvim)**, **[Vs Code](https://github.com/thederpykrafter/tdk.vscode)** and **[Powershell](https://github.com/thederpykrafter/tdk.powershell)**
 - 🎆 Other configs & changes: **[Firefox Theme](https://github.com/thederpykrafter/tdk.firefox)**
-- 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf) or [LinkedIn](https://www.linkedin.com/in/justin-kulczyski/)**
-- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter) or [Replit](https://replit.com/@JustinKulczyski)**
+- 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)** or **[LinkedIn](https://www.linkedin.com/in/justin-kulczyski/)**
+- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/thederpykrafter)** or **[Replit](https://replit.com/@JustinKulczyski)**
 
 
 <h2>Stats</h2>
@@ -31,11 +31,12 @@
 
 <h2 align="left">Languages:</h2>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="Lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 </p>
 
 <h2 align="left">Frameworks, Libraries & Styling:</h2>
@@ -58,5 +59,5 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCFKcxsEzPuDF9a8XDAL6I5XxhzWG9N0Qw3EuwaEwGA&s" alt="Windows" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCFKcxsEzPuDF9a8XDAL6I5XxhzWG9N0Qw3EuwaEwGA&s" alt="Windows" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/thederpykrafter/thederpykrafter/blob/main/replit.png" alt="Replit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="Replit" width="40" height="40"/>
 </p>
