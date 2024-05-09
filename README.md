@@ -11,13 +11,11 @@
 
 
 <h2>Stats</h2>
-<!-- Views -->
 <p>
-<!-- WakaTime -->
-<img src="https://komarev.com/ghpvc/?username=thederpykrafter&label=Profile%20views&color=0e75b6&style=flat" alt="thederpykrafter" />
-<a href="https://wakatime.com/badge/user/8ff1bc96-72c1-4343-b1b9-4dad78d55ebb/project/8b3789f2-8d3c-4b68-b7bb-2c3c7e9aafd2">
-  <img src="https://wakatime.com/badge/user/8ff1bc96-72c1-4343-b1b9-4dad78d55ebb/project/8b3789f2-8d3c-4b68-b7bb-2c3c7e9aafd2.svg" alt="wakatime">
-</a>
+  <!-- Views -->
+  <img src="https://komarev.com/ghpvc/?username=thederpykrafter&label=Profile%20views&color=0e75b6&style=flat" alt="thederpykrafter" />
+  <!-- WakaTime -->
+  <a href="https://wakatime.com/@8ff1bc96-72c1-4343-b1b9-4dad78d55ebb"><img src="https://wakatime.com/badge/user/8ff1bc96-72c1-4343-b1b9-4dad78d55ebb.svg" alt="Total time coded since May 8 2024" /></a>
 </p>
 
 <!-- Language usage -->
