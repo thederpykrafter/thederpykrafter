@@ -2,12 +2,16 @@
 <h3 align="center">A passionate self taught developer eager to learn as much as possible</h3>
 <br>
 
-- 🔭 I’m currently working on: **[tdk-portfolio](https://github.com/thederpykrafter/tdk-portfolio)** and **[learning-go](https://github.com/thederpykrafter/learning-go)**
-- 🧠 I’m currently learning: **[Golang](https://go.dev), [Svelte-Kit](https://kit.svelte.dev)** and **[Tailwind](https://tailwindcss.com)**
-- 🎛 My editor configs: **[Neovim](https://github.com/thederpykrafter/tdk.nvim)**, **[LunarVim](https://github.com/thederpykrafter/tdk.lvim)**, and **[Vs Code](https://github.com/thederpykrafter/tdk.vscode)** 
-- 🎆 Other configs & themes: **[Firefox Theme](https://github.com/thederpykrafter/tdk.firefox)**, **[Obsidian config](https://github.com/thederpykrafter/tdk.obsidian)** and **[Powershell](https://github.com/thederpykrafter/tdk.powershell)**
 - 📫 How to reach me: **[Discord](https://discord.gg/ZVUQKqusgf)** or **[LinkedIn](https://www.linkedin.com/in/justin-kulczyski/)**
+- 🔭 I’m currently working on: **[curse-game](https://github.com/thederpykrafter/curse-game), [get-repos](https://github.com/thederpykrafter/get-repos), [nogit](https://github.com/thederpykrafter/nogit), [work-sched](https://github.com/thederpykrafter/work-sched)** and **[hello_ocaml](https://github.com/thederpykrafter/hello_ocaml)**
+- 🧠 I’m currently learning: **[ocaml](https://ocaml.org), [love2d](https://love2d.org)** and **[ncurses](https://invisible-island.net/ncurses/)**
+- 🎛 My editor configs: **[Neovim](https://github.com/thederpykrafter/nvim)**, and **[termux-nvim](https://github.com/thederpykrafter/termux-nvim)**
+- 🇿 My shell configs: **[zsh](https://github.com/thederpykrafter/zsh)** and **[alacritty](https://github.com/thederpykrafter/alacritty)**
+- 🎆 Other configs & themes: **[Firefox Theme](https://github.com/thederpykrafter/tdk.firefox)**, **[Obsidian config](https://github.com/thederpykrafter/tdk.obsidian)** 
+
 - 👨‍💻 All of my projects are available on: **[GitHub](https://github.com/thederpykrafter)** or **[Replit](https://replit.com/@JustinKulczyski)**
+
+- 👴 Retired configs **[LunarVim](https://github.com/thederpykrafter/tdk.lvim)**, and **[Vs Code](https://github.com/thederpykrafter/tdk.vscode)** and **[Powershell](https://github.com/thederpykrafter/tdk.powershell)**
 
 
 <h2>Stats</h2>
